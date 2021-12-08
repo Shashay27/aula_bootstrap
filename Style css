@@ -1,0 +1,17 @@
+
+.navbar {
+background-color: #CC2EFA;
+}
+
+.Características{
+    background-color: #A901DB; 
+}
+
+.margin{
+    padding-bottom: 500px
+    padding-topo; 10px; 
+}
+
+.parceiros{
+    background-color: #AC58FA;
+}
