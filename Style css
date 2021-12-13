@@ -8,10 +8,10 @@ background-color: #CC2EFA;
 }
 
 .margin{
-    padding-bottom: 500px
-    padding-topo; 10px; 
+    padding-bottom: 500px;
+    padding-topo: 10px; 
 }
 
 .parceiros{
-    background-color: #AC58FA;
+    background-color:#AC58FA;
 }
